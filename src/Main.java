@@ -5,7 +5,7 @@ class Solution {
 
         char t[] = s.toCharArray();
 
-        int max = -1;
+        int max = -1 ;
 
         for (int i = 0 ; i < t.length  ; i ++){
             char x = t[i];
