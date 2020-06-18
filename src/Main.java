@@ -3,7 +3,7 @@ class Solution {
 
         String p = "";
 
-        char t[] = s.toCharArray();
+        char t[] = s.toCharArray(); 
 
         int max = -1 ;
 
